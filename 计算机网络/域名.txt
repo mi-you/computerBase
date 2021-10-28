@@ -1,0 +1,23 @@
+- 什么是域名
+    . 根
+    cn com edu net gov org ...顶级域名
+    baidu.com baidu - 个人、公司域名
+    www.baidu.com.
+    www.baidu.com 域名下的一个网址（.可以省略）
+    ftp.baidu.com 域名下的一个ftp服务器
+    mail.baidu.com 域名下的一个邮件服务器
+
+- 域名注册
+    全球唯一即可
+- 域名解析
+    会有缓存
+- 在客户端测试域名解析
+    ping www.baidu.com
+    nslookup 测试域名解析
+    8.8.8.8 谷歌的一个免费DNS域名服务器
+    222.222.222.222中国电信的一个免费DNS域名解析服务器
+
+- 正向查找区
+    由域名获取ip
+- 逆向查找区
+    由ip获取域名
